@@ -7,7 +7,7 @@
 
 clear all
 clc
-load video_info_IrO2_800C_FeCl_final_2024_05_16_rates_M_drive.mat
+load video_info_IrO2_800C_FeCl_final_2024_11_15_rates_M_drive.mat
 
 %% Look at dimensions
 clearvars -except video_info
